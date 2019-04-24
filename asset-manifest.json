@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestBuildMovieList/static/css/main.010eb74a.chunk.css",
+    "main.js": "/TestBuildMovieList/static/js/main.39e26614.chunk.js",
+    "main.js.map": "/TestBuildMovieList/static/js/main.39e26614.chunk.js.map",
+    "runtime~main.js": "/TestBuildMovieList/static/js/runtime~main.717d2f6c.js",
+    "runtime~main.js.map": "/TestBuildMovieList/static/js/runtime~main.717d2f6c.js.map",
+    "static/js/2.4908e65f.chunk.js": "/TestBuildMovieList/static/js/2.4908e65f.chunk.js",
+    "static/js/2.4908e65f.chunk.js.map": "/TestBuildMovieList/static/js/2.4908e65f.chunk.js.map",
+    "index.html": "/TestBuildMovieList/index.html",
+    "precache-manifest.4a5f3f831af40e24a127e51d05b32d1c.js": "/TestBuildMovieList/precache-manifest.4a5f3f831af40e24a127e51d05b32d1c.js",
+    "service-worker.js": "/TestBuildMovieList/service-worker.js",
+    "static/css/main.010eb74a.chunk.css.map": "/TestBuildMovieList/static/css/main.010eb74a.chunk.css.map"
+  }
+}
